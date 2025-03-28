@@ -1,0 +1,352 @@
+/* Globalizationsssss */
+* {
+  margin: 0;
+}
+.text-center {
+  text-align: center;
+}
+.container {
+  padding: 90px 53px;
+}
+.container1 {
+  padding: 85px 207px;
+}
+.container3 {
+  padding: 50px 0 40px;
+}
+.clear-fix {
+  clear: both;
+}
+
+/* Fonts */
+.alegrya-font {
+  font-family: "Alegreya";
+}
+
+/* Colors */
+.text-white {
+  color: white;
+}
+
+.text-brown {
+  color: #686868;
+}
+
+.text-grey {
+  color: #888888;
+}
+.text-darkgrey {
+  color: #969696;
+}
+.bg-brown {
+  background-color: #8e7754;
+}
+
+.bg-offwhite {
+  background: #f8f8f8;
+}
+
+.bg-darkbrown {
+  background-color: #403d38;
+}
+.bg-semiblack {
+  background-color: #353330;
+}
+body {
+  font-family: "Alegreya Sans";
+}
+/* Hero Section*/
+#Hero-Section {
+  background: red;
+  background-image: url(../images/bakery-bg.jpg);
+  background-size: cover;
+  background-position: center;
+
+  height: 100vh;
+}
+
+#Hero-Section .Hero-Section-Content {
+  padding-top: 300px;
+}
+
+#Hero-Section span {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+#Hero-Section h1 {
+  font-size: 76px;
+  margin-bottom: 18px;
+  font-weight: 200;
+}
+
+#Hero-Section p {
+  font-size: 76px;
+  margin: 10px auto 20px auto;
+  font-size: 24px;
+  width: 42%;
+}
+#Hero-Section .hero-section-btns {
+  margin-top: 30px;
+}
+#Hero-Section button {
+  padding: 15px 28px;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+#Hero-Section .btn-2 {
+  background-color: transparent;
+  border: 2px solid white;
+  margin-left: 12px;
+}
+
+#Hero-Section .fixed-btn {
+  margin-top: 180px;
+  background-color: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.712);
+  width: 32px;
+  height: 50px;
+  padding: 0;
+  border-radius: 24px;
+  -webkit-border-radius: 24px;
+  -moz-border-radius: 24px;
+  -ms-border-radius: 24px;
+  -o-border-radius: 24px;
+}
+
+/* Who we are section  */
+
+#Who-We-Are img {
+  width: 40%;
+  padding-right: 40px;
+  vertical-align: middle;
+}
+
+#Who-We-Are .who-content {
+  display: inline-block;
+  width: 40%;
+  text-align: start;
+  padding-left: 40px;
+  vertical-align: middle;
+}
+
+#Who-We-Are .who-content h2 {
+  font-size: 32px;
+  margin-bottom: 25px;
+  font-weight: 400;
+}
+
+#Who-We-Are .who-content p {
+  font-size: 17px;
+  font-weight: 400;
+  margin-bottom: 25px;
+  line-height: 31.62px;
+}
+
+#Who-We-Are .who-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+#Who-We-Are .who-content ul li {
+  padding: 15px 0 15px 0;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+#Who-We-Are .who-content ul li img {
+  vertical-align: middle;
+  width: 55px;
+  margin-right: 10px;
+}
+
+#Our-Location img {
+  width: 40%;
+  padding-left: 40px;
+  vertical-align: middle;
+}
+
+#Our-Location .who-content {
+  display: inline-block;
+  width: 40%;
+  text-align: start;
+  padding-right: 40px;
+  vertical-align: middle;
+}
+
+#Our-Location .who-content h2 {
+  font-size: 32px;
+  margin-bottom: 25px;
+  font-weight: 400;
+}
+
+#Our-Location .who-content p {
+  font-size: 17px;
+  font-weight: 400;
+  margin-bottom: 25px;
+  line-height: 31.62px;
+}
+
+/* Our Baking section */
+
+#Our-Baking h2 {
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+#Our-Baking p {
+  margin: 17px 0 60px 0;
+  font-size: 17;
+  line-height: 31.62px;
+}
+
+#Our-Baking .item {
+  display: inline-block;
+  width: 26.6666%;
+  padding: 0 20px 0 15px;
+}
+
+#Our-Baking .item img {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+#Our-Baking .item h3 {
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 15px;
+  color: #303030;
+}
+#Our-Baking .item p {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 31.62px;
+}
+
+/* Contact Information */
+
+#Contact-Information .contact-content {
+  float: left;
+  width: 40%;
+  vertical-align: middle;
+  padding-right: 24px;
+}
+
+#Contact-Information h2 {
+  font-size: 32px;
+  margin-bottom: 25px;
+  font-weight: 400;
+}
+#Contact-Information p {
+  font-size: 17px;
+  font-weight: 400;
+  margin-bottom: 30px;
+  line-height: 31.62px;
+}
+#Contact-Information span {
+  margin-bottom: 18px;
+  font-size: 17px;
+  font-weight: 400;
+  display: inline-block;
+}
+#Contact-Information .contact-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+#Contact-Information .contact-content ul li {
+  padding: 15px 0 15px 0;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+#Contact-Information .contact-content ul li img {
+  vertical-align: middle;
+  width: 36px;
+  margin-right: 10px;
+}
+
+#Contact-Information .contact-map {
+  float: right;
+  width: 40%;
+  vertical-align: middle;
+  padding-left: 24px;
+}
+
+/* Summary */
+#summary .sum-item1 {
+  padding: 0 16px 0 16px;
+  float: left;
+  width: 22%;
+}
+#summary h3 {
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 18px;
+}
+#summary .sum-item1 p, #summary .sum-item3 p {
+  line-height: 29.76px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+#summary .sum-item2, #summary .sum-item3 {
+  padding: 0 16px 0 16px;
+  float: left;
+  width: 22%;
+}
+#summary .sum-item2 ul, #summary .sum-item3 ul {
+  list-style: circle;
+  font-size: 16px;
+  padding: 0 0 0 16px;
+}
+
+#summary .sum-item2 li, #summary .sum-item3 li {
+  padding: 0 0 7px 0;
+  margin: 0 0 7px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  line-height: 31.62px;
+}
+
+#summary .sum-item2 li.last-list, #summary .sum-item3 li.last-list {
+  border: none;
+}
+#summary .sum-item3 ul {
+  padding: 0;
+}
+#summary .sum-item3 li { list-style: none;
+}
+#summary .sum-item3 a {
+  text-decoration: none;
+}
+
+#summary .sum-item3 img {
+  vertical-align: middle;
+  width: 20px;
+  margin-right: 10px;
+}
+
+/* Footer */
+
+#footer img {
+  margin: 10px 0 25px 0;
+}
+
+#footer p {
+  color: #777777;
+  margin-top: 5px;
+}
+
+#footer .social-imgs {
+  padding-top: 8px;
+  margin-top: 15px;
+}
+
